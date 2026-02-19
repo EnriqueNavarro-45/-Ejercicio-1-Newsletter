@@ -25,4 +25,4 @@ Deploy: [Pega aquí el deploy de GitHub Pages]
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+El desarrollo de este código me permitió comprender el uso basico de comandos para desarrolar paginas web, asi como implementar un diseño intuitivo para el usuario
