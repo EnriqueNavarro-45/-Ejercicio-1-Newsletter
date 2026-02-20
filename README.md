@@ -21,7 +21,7 @@ La página permite a los usuarios ingresar su correo electrónico para suscribir
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: https://enriquenavarro-45.github.io/-Ejercicio-1-Newsletter/
-Deploy: https://github.com/EnriqueNavarro-45/-Ejercicio-1-Newsletter/tree/main
+Repositorio en GitHub: https://github.com/EnriqueNavarro-45/-Ejercicio-1-Newsletter/tree/main 
+Deploy: https://enriquenavarro-45.github.io/-Ejercicio-1-Newsletter/
 ## 📝 Reflexión
 El desarrollo de este código me permitió comprender el uso basico de comandos para desarrolar paginas web, asi como implementar un diseño intuitivo para el usuario
