@@ -21,7 +21,7 @@ La página permite a los usuarios ingresar su correo electrónico para suscribir
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [\[Pega aquí tu enlace\]](https://github.com/EnriqueNavarro-45/-Ejercicio-1-Newsletter/tree/main)
+Repositorio en GitHub: https://enriquenavarro-45.github.io/-Ejercicio-1-Newsletter/
 Deploy: [\[Pega aquí el deploy de GitHub Pages\]](https://enriquenavarro-45.github.io/-Ejercicio-1-Newsletter/)
 
 ## 📝 Reflexión
